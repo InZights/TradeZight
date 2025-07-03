@@ -3,7 +3,7 @@
 ## Fusing Visuals & Sentiment for Smarter Trade Decisions
 
 ![TradeZight Logo](https://github.com/InZights/TradeZight/raw/main/assets/TradeZight.png)
-*(Replace this placeholder with an actual screenshot or GIF of your running app!)*
+*(Actual screenshot of the TradeZight)*
 
 ## 🚀 Project Overview
 
