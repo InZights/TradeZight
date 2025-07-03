@@ -2,7 +2,7 @@
 
 ## Fusing Visuals & Sentiment for Smarter Trade Decisions
 
-![TradeZight App Screenshot - Placeholder](https://placehold.co/800x450/0E1117/FAFAFA?text=TradeZight+App+Screenshot)
+![TradeZight Logo](https://github.com/InZights/TradeZight/raw/main/assets/TradeZight.png)
 *(Replace this placeholder with an actual screenshot or GIF of your running app!)*
 
 ## 🚀 Project Overview
