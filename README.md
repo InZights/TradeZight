@@ -101,4 +101,3 @@ Developed by Jefferson Macasarte
 ## 📄 License
 
 This project is open-sourced under the MIT License. See the `LICENSE` file for more details.
-*(You'll need to create a `LICENSE` file in your repository if you want to include this. A simple MIT license file can be found online.)*
