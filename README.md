@@ -37,10 +37,9 @@ The app provides actionable trade suggestions, complete with precise numerical g
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/TradeZight.git](https://github.com/your-username/TradeZight.git)
+    git clone [https://github.com/InZights/TradeZight]
     cd TradeZight
     ```
-    *(Replace `https://github.com/your-username/TradeZight.git` with your actual repository URL)*
 
 2.  **Create a virtual environment (recommended):**
     ```bash
@@ -67,7 +66,6 @@ The app provides actionable trade suggestions, complete with precise numerical g
     ```
     OPENAI_API_KEY="your_openai_api_key_here"
     ```
-    **Important:** Replace `"your_openai_api_key_here"` with your actual key. Do not share this file publicly.
 
 ## ▶️ How to Run
 
